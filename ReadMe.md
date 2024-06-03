@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de Ciência Da Computação<br>Estudando Front-end <br>Em busca de vaga de estágio
+Estudante de Ciência Da Computação<br>Estudando Ciência de dados <br>Em busca de vaga de estágio
 
 
 # 💻 Tech Stack:
